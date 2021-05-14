@@ -4,9 +4,9 @@
 
 
 # WHAT YOU WILL LEARN
-- evelop custom Python scripts to automate cybersecurity tasks.
-- pply Python to meet objectives through the cybersecurity attack lifecycle.
-- utomate common cyberattack and defense activities with Python.
+- Develop custom Python scripts to automate cybersecurity tasks.
+- Apply Python to meet objectives through the cybersecurity attack lifecycle.
+- Automate common cyberattack and defense activities with Python.
 
 
 # SKILLS YOU WILL GAIN
