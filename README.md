@@ -21,11 +21,6 @@
 * Execution
 * Active defense
 
-# About this Specialization
-Python is one of the most popular and widely-used programming languages in the world due to its high usability and large collection of libraries. This learning path provides an application-driven introduction to using Python for cybersecurity. Python can help to automate tasks across the cyberattack life cycle for both cyber attackers and defenders. This Specialization demonstrates some of these applications and how Python can be used to make cybersecurity professionals more efficient and effective.    
-
-# Applied Learning Project
-Learners will acquire the technical skills needs to develop custom Python scripts to automate cybersecurity tasks. The challenges in this project involve developing or modifying Python code to address cybersecurity use cases drawn from MITRE ATT&CK and Shield.
 
 # 5 Courses in this Specialization
 * Introduction to Python for Cybersecurity
@@ -36,6 +31,13 @@ Learners will acquire the technical skills needs to develop custom Python script
 
 # Instructor
 * Howard Poston
+
+# About this Specialization
+Python is one of the most popular and widely-used programming languages in the world due to its high usability and large collection of libraries. This learning path provides an application-driven introduction to using Python for cybersecurity. Python can help to automate tasks across the cyberattack life cycle for both cyber attackers and defenders. This Specialization demonstrates some of these applications and how Python can be used to make cybersecurity professionals more efficient and effective.    
+
+# Applied Learning Project
+Learners will acquire the technical skills needs to develop custom Python scripts to automate cybersecurity tasks. The challenges in this project involve developing or modifying Python code to address cybersecurity use cases drawn from MITRE ATT&CK and Shield.
+
 
 # Infosec
 Infosec believes knowledge is power when fighting cybercrime. We help IT and security professionals advance their careers with skills development and certifications while empowering all employees with security awareness and privacy training to stay cyber-safe at work and home. Learn more at infosecinstitute.com.
